@@ -1,0 +1,14 @@
+{
+    "keys":
+    {
+        "weather": <API KEY>,
+        "news": <API KEY>
+    },
+    "location":
+    {
+        "area": "Exeter",
+        "country": "gb"
+    },
+    "news_words": ["covid", "corona"],
+    "picture": "clock.jpg"
+}
